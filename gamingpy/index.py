@@ -266,4 +266,5 @@ while running:
 if use_video:
     video.release()
 pygame.quit()
+
 sys.exit()
